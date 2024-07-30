@@ -25,5 +25,3 @@ I'm a Software Engineering student with a deep interest in Data Science. Current
 ## Contributions
 I often post projects related to Machine Learning and Data Science. I'm excited to collaborate with others in the community to develop innovative solutions and enhance my skills.
 
-
---->
