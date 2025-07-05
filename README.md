@@ -26,8 +26,8 @@ I'm passionate about building real-world solutions with AI, ML, and modern softw
   <img alt="DVC" src="https://img.shields.io/badge/DVC-945DD6?logo=dvc&logoColor=white&style=for-the-badge"/>
   <img alt="RAG" src="https://img.shields.io/badge/RAG-0A192F?logo=openai&logoColor=white&style=for-the-badge"/>
   <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white&style=for-the-badge"/>
-  <img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge"/>
-  <img alt="Power BI" src="https://img.shields.io/badge/PowerBI-F2C811?logo=powerbi&logoColor=black&style=for-the-badge"/>
+  <img alt="SQL" src="https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge"/    >
+  <img alt="Power BI" src="https://img.shields.io/badge/PowerBI-F2C811?logo=sql&logoColor=black&style=for-the-badge"/>
   <img alt="Tableau" src="https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white&style=for-the-badge"/>
   <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white&style=for-the-badge"/>
 </p>
