@@ -24,9 +24,6 @@
   <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,fastapi,docker,mysql,firebase,flutter,git,github,vscode,jupyter" />
 </p>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,azure,gcp,aws,graphql,opencv" />
-</p>
 
 ---
 
