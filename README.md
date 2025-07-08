@@ -1,68 +1,94 @@
-<!-- Profile header with a personal touch -->
 <h2 align="center">👋 Hi, I'm Muhammad Khizer Zakir</h2>
+
 <p align="center">
-  <b>AI & ML Engineer | Full-Stack Developer | Open Source Enthusiast</b><br>
-  <a href="https://linkedin.com/in/muhammad-khizer-zakir">LinkedIn</a> •
-  <a href="mailto:muhammadkhizerzakir@gmail.com">Email</a> •
-  <a href="https://github.com/Khizer-Data">GitHub</a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3500&pause=1000&color=F7C51D&center=true&vCenter=true&width=500&lines=Software+Engineer+by+Qualification;Self-Taught+AI+%26+ML+Engineer;Data+Science+%7C+Open+Source+Enthusiast;Building+real-world+solutions+with+cutting-edge+tech" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/muhammad-khizer-zakir">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:muhammadkhizerzakir@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Email"/>
+  </a>
+  <a href="https://github.com/Khizer-Data">
+    <img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white&style=for-the-badge" alt="GitHub"/>
+  </a>
 </p>
 
 ---
 
-### 🚀 About Me
-
-I'm passionate about building real-world solutions with AI, ML, and modern software stacks. My focus: making cutting-edge tech practical, impactful, and open.
-
----
-
-### 🛠️ My Tech Toolbox
+## 🚀 Tech Stack & Tools
 
 <p align="center">
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge"/>
-  <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge"/>
-  <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=for-the-badge"/>
-  <img alt="Scikit-learn" src="https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikit-learn&logoColor=white&style=for-the-badge"/>
-  <img alt="MLflow" src="https://img.shields.io/badge/MLflow-0194E2?logo=mlflow&logoColor=white&style=for-the-badge"/>
-  <img alt="DVC" src="https://img.shields.io/badge/DVC-945DD6?logo=dvc&logoColor=white&style=for-the-badge"/>
-  <img alt="RAG" src="https://img.shields.io/badge/RAG-0A192F?logo=openai&logoColor=white&style=for-the-badge"/>
-  <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white&style=for-the-badge"/>
-  <img alt="SQL" src="https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge"/    >
-  <img alt="Power BI" src="https://img.shields.io/badge/PowerBI-F2C811?logo=sql&logoColor=black&style=for-the-badge"/>
-  <img alt="Tableau" src="https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white&style=for-the-badge"/>
-  <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white&style=for-the-badge"/>
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,fastapi,docker,mysql,firebase,flutter,git,github,vscode,jupyter" />
 </p>
 
-- **Machine Learning & Deep Learning:** LLMs (GPT-4), Transformers, CNN, LSTM, RAG, OpenCV  
-- **Experiment Tracking & Data:** MLflow, DVC  
-- **Visualization:** Tableau, Power BI, Plotly  
-- **Dev & Cloud:** FastAPI, Firebase, Flutter, WebRTC, Agora SDK  
-- **Other:** SQL, Java, Trello, Lucidchart, MS Project
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,azure,gcp,aws,graphql,opencv" />
+</p>
 
 ---
 
-### 🌟 Featured Projects
+## 📈 GitHub Stats & Activity
 
-| Project | Description |
-|---------|-------------|
-| [AI Text Humanizer](https://github.com/Khizer-Data/AI-Text-Humanizer) | 📝 NLP-powered app to make AI-generated text sound natural in different styles. |
-| [UAV Cyber Intrusion Detection](https://github.com/Khizer-Data/uav-cyber-intrusion-detection) | 🚁 ML for cyber-physical intrusion detection in UAVs, 96%+ accuracy. |
-| [Blood Cell Cancer Detection](https://github.com/Khizer-Data/Blood-cell-cancer-detection) | 🩸 CNN-based blood cell image classifier for early cancer screening. |
-| [AI Career Counselor](https://github.com/Khizer-Data/AI-Career-Counselor) | 🎓 Predicts career paths using user skills, interests, and O*NET API. |
-| [Darknet2020 Traffic Classification](https://github.com/Khizer-Data/Darknet2020-Traffic-Classification) | 🌐 Classifies darknet traffic, detects malicious activity. |
-| [Healthcare Translator](https://github.com/Khizer-Data/healthcaretranslator) | 🌍 TypeScript-powered medical translation tool. |
-| [Customer Churn Prediction](https://github.com/Khizer-Data/Customer-Churn-Prediction) | 📈 Predictive analytics for customer retention. |
-| [Titanic ML from Disaster](https://github.com/Khizer-Data/Titanic-ML-from-Disaster) | 🚢 Classic ML survival prediction project. |
-| [Machine Learning Preparation](https://github.com/Khizer-Data/Machine-Learning-Preparation) | 💡 Curated ML notebooks for learning/interview prep. |
-| [Sales Dashboard PowerBI](https://github.com/Khizer-Data/Sales-Dashboard-PowerBI) | 📊 Business dashboard for sales insights. |
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Khizer-Data&show_icons=true&theme=radical" alt="stats"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Khizer-Data&theme=radical" alt="streak"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khizer-Data&layout=compact&theme=radical" alt="langs"/>
+</p>
 
 ---
 
-### 🤝 Let's Connect!
+## 🏗 Featured Projects
 
-- 📫 Email: [muhammadkhizerzakir@gmail.com](mailto:muhammadkhizerzakir@gmail.com)
-- 🌐 [LinkedIn](https://linkedin.com/in/muhammad-khizer-zakir)
-- 🗂️ [GitHub Portfolio](https://github.com/Khizer-Data)
+<p align="center">
+  <a href="https://github.com/Khizer-Data/AI-Text-Humanizer">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Khizer-Data&repo=AI-Text-Humanizer&theme=radical" />
+  </a>
+  <a href="https://github.com/Khizer-Data/uav-cyber-intrusion-detection">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Khizer-Data&repo=uav-cyber-intrusion-detection&theme=radical" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/Khizer-Data/Blood-cell-cancer-detection">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Khizer-Data&repo=Blood-cell-cancer-detection&theme=radical" />
+  </a>
+  <a href="https://github.com/Khizer-Data/healthcaretranslator">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Khizer-Data&repo=healthcaretranslator&theme=radical" />
+  </a>
+</p>
 
-```
+---
 
-✨ _Always open for collaboration, learning, and building cool things!_ ✨
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Khizer-Data&theme=darkhub&no-frame=true&no-bg=true&margin-w=4" />
+</p>
+
+---
+
+## ✨ Let's Connect & Build
+
+<p align="center">
+  <a href="mailto:muhammadkhizerzakir@gmail.com">
+    <img src="https://img.shields.io/badge/-Contact%20Me-d14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/>
+  </a>
+  <a href="https://linkedin.com/in/muhammad-khizer-zakir">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
+  </a>
+  <a href="https://github.com/Khizer-Data">
+    <img src="https://img.shields.io/badge/-GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  ⚡ _Always open for collaboration, learning, and building impactful AI & ML solutions!_
+</p>
