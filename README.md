@@ -1,7 +1,7 @@
 <h2 align="center">👋 Hi, I'm Muhammad Khizer Zakir</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3500&pause=1000&color=F7C51D&center=true&vCenter=true&width=500&lines=Software+Engineer+by+Qualification;Self-Taught+AI+%26+ML+Engineer;Data+Science+%7C+Open+Source+Enthusiast;Building+real-world+solutions+with+cutting-edge+tech" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3500&pause=1000&color=F7C51D&center=true&vCenter=true&width=500&lines=Software+Engineer+by+Qualification;Self-Taught+AI+%26+ML+Engineer;Data+Science+%7C+Open+Source+Enthusiast;" alt="Typing SVG" />
 </p>
 
 <p align="center">
